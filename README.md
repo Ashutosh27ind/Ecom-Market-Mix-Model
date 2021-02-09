@@ -1,5 +1,5 @@
 # Ecom-Market-Mix-Modle
-To build a MMM for ElecKart Ontari based ecommerce company
+To build a MMM for ElecKart Ontario based ecommerce company
 
 # Problem Statement  
 ## Background  - Business Understanding   
